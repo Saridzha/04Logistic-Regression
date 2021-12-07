@@ -1,1 +1,1 @@
-# 04Logistic-Regression
+# КР2
